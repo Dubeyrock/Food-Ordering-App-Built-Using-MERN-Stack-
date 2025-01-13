@@ -1,8 +1,27 @@
-# Food Ordering App Built Using MERN Stack!
+# Food Ordering App Built Using MERN Stack! (demo )
 [food ordering app screenshot](https://user-images.githubusercontent.com/50160672/180350693-92a71ecb-7672-49b1-8943-188e96d13ee6.png)
 
 
+# Food Ordering App (MERN Stack)
 
+A modern web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that revolutionizes the way people order and enjoy food. This project provides a seamless and efficient platform for users to browse, select, and order their favorite dishes from various restaurants.
+
+## Features
+
+- **User Authentication**: Sign up, login, and manage user accounts securely.
+- **Browse Restaurants**: View restaurants with detailed menus and categories.
+- **Search and Filter**: Find restaurants or dishes based on preferences.
+- **Order Management**: Add items to the cart and place orders.
+- **Admin Panel**: Manage restaurant details, menu items, and orders.
+- **Real-time Updates**: Get real-time updates on your orders and status.
+
+## Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Token)
+- **Deployment**: Heroku (for backend), Netlify (for frontend)
 
 ## Available Scripts
 
